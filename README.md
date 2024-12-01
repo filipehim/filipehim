@@ -11,8 +11,11 @@
 ##
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=60px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=60px/>
-  <img src="icons/scrapy_icons.png" height=500px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=50px/>
+  <img src="icons/scrapy_icon.png" height=65px />
+  <img src="icons/beautifulsoup_icon.png" height=65px />
+  <img src="icons/requests_icon.png" height=65px />
+  
 </div>
 
 <!--
