@@ -1,6 +1,19 @@
 ## FERRAMENTAS 
 
-- PYTHON
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=60px/>
+  
+</div>
+
+##
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=60px/>
+  <img src="icons/scrapy_icons.png" height=500px/>
+</div>
 
 <!--
 **filipehim/filipehim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
