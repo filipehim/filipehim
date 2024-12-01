@@ -1,5 +1,9 @@
-## FERRAMENTAS 
+<div align="center">
+  
+  **CONHECIMENTO EM**
+</div>
 
+## Ferramnetas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=60px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=60px/>
@@ -8,7 +12,7 @@
   
 </div>
 
-##
+## Bibliotecas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=60px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=50px/>
