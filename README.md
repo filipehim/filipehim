@@ -16,7 +16,6 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=40px/>
-  <img src="icons/scrapy_icon.png" height=55px />
   <img src="icons/beautifulsoup_icon.png" height=55px />
   <img src="icons/requests_icon.png" height=55px />
 </div>
